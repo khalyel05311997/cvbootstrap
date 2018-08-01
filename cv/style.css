@@ -1,0 +1,96 @@
+body{
+padding-bottom: 20px;
+}
+
+.jumbotron{
+height:400px;
+background: url("a.jpeg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+box-shadow: 2px 2px 2px 2px #000;
+}
+.ob{
+font-size: 16px;
+font-family: cursive;
+
+}
+.ob:hover{color:tomato;}
+.ob1{
+font-size: 14px;
+font-family: cursive;
+
+}
+
+h1{
+color:white !important;
+font-family:cursive;
+text-align: center;
+}
+
+h4{
+color:white !important;
+font-family:arial;
+text-align: center;
+}
+
+
+
+img{
+border-radius: 50%;
+border:5px solid white;
+
+width:200px;
+height:200px;
+}
+
+
+h2{
+text-align: center;
+font-family: cursive;
+}
+.col-lg-12 .col-sm-12 .col-xs-12 p{
+	text-align: justify;
+}
+.col-lg-6 .col-md-6 .col-xs-12 p{
+	text-align: justify;
+}
+
+#fb{
+color: #252D64;
+
+}
+#insta{
+
+	color:#C9172E;
+}
+#tel{
+	color:#00AB4E;
+}
+#house{
+	color:black;
+}
+.contact{
+	padding:50px;
+}
+hr{
+	border:1px solid gray;
+}
+
+.exp{
+background-color: #231651;
+color:white;
+font-family: cursive;
+}
+h3{
+	border-bottom: 2px solid white;
+}
+
+.icon{
+	color:#0068BD;
+}
+i:hover{
+	transform: rotate(360deg);
+
+
+       }
